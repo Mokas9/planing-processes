@@ -1,0 +1,21 @@
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\bin\Debug\SW.exe.config
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\bin\Debug\SW.exe
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\bin\Debug\SW.pdb
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.csprojResolveAssemblyReference.cache
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.Form1.resources
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.Properties.Resources.resources
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.csproj.GenerateResource.Cache
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.exe
+c:\users\fstone\documents\visual studio 2015\Projects\SW\SW\obj\Debug\SW.pdb
+D:\!БИБЛИОТЕКА\МГВРК\4 КУРС\История Вычислительных Систем\1\SW\bin\Debug\SW.exe.config
+D:\!БИБЛИОТЕКА\МГВРК\4 КУРС\История Вычислительных Систем\1\SW\obj\Debug\SW.exe
+D:\!БИБЛИОТЕКА\МГВРК\4 КУРС\История Вычислительных Систем\1\SW\obj\Debug\SW.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\bin\Debug\SW.exe.config
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\bin\Debug\SW.exe
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\bin\Debug\SW.pdb
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.csprojResolveAssemblyReference.cache
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.Form1.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.Properties.Resources.resources
+D:\!БИБЛИОТЕКА\Учреждения Образования\МГВРК\4 КУРС\Вычислительные Системы\Алгоритмы планирования\1\SW\obj\Debug\SW.csproj.GenerateResource.Cache
